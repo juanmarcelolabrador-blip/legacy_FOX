@@ -1,0 +1,5 @@
+venv/
+*.json
+*.pdf
+__pycache__/
+.vscode/
